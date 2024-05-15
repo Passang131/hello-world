@@ -1,0 +1,89 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    image-orientation: center;
+    
+}
+
+header {
+    background-color: #333333;
+    color: #fafafa;
+    text-align: center;
+    padding: 1em;
+
+}
+header.image{
+    width: 200px;
+    height: auto;
+    align-items: left;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    margin: 20px;
+    text-align: center;
+    
+}
+
+footer {
+    background-color: #333333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+     
+}
+.E-SERVICES{
+    text-align: left;
+}
+.Address{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+image{
+    border: 1px solid #000
+    
+}
+
+.image{
+    display:flex;
+    align-items: center;
+}
+.text{
+    margin-left:20px;
+}
+
+p {
+    text-align: left;
+}
+
+
+p {
+    text-align: center;
+}
+
+
+p {
+    text-align: right;
+}
+
+
+p {
+    text-align: justify;
+}
